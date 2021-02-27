@@ -1,8 +1,8 @@
 alembic==1.5.5
 aniso8601==9.0.0
 certifi==2020.12.5
-click @ file:///home/linux1/recipes/ci/click_1610990599742/work
-Flask @ file:///home/ktietz/src/ci/flask_1611932660458/work
+click==6.7
+Flask==1.0.2
 Flask-JWT==0.3.2
 Flask-Migrate==2.7.0
 Flask-MySQL==1.5.2
